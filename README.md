@@ -1,0 +1,2 @@
+# DatVeXemPhimASP.NET_CORE
+Web ĐẶT VÉ XEM PHIM sử dụng C# ASP.NET CORE API
